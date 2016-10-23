@@ -1,10 +1,7 @@
-//min value 0 - 255
-//max value
+// script.name=Curve - ctRy
+// script.description=Manipulate the terrain height with points in the curve.
 
 ///////////CODE/////////////
-
-if (parseInt(org.pepsoft.worldpainter.Version.BUILD) > 20160820173357)
-	print("This WorldPainter version probably includes CaptainChaos's new scripting system. Ask ctRy to update his scripts!");
 
 print('Script by ctRy');
 
